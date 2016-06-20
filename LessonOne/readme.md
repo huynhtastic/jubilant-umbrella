@@ -18,16 +18,16 @@ He wants the program to allow guests to put in their first and last names, their
 "Welcome, Richard Huynh! Congratulations on being on this planet for the past 22 years! Have as much strawberry ice cream as you want at the party!"
 
 ### 2. The root(s) of all evil
-After finishing that program for Dr. J. Dan, you walk with a grin from cheek to cheek, proud of your successful work for him. On your way back home, you see a high school kid throwing a tantrum at a park. You go up to him, ask him for his name, and why he's so mad. He reveals himself as Charley, a student attending Gintel High School. His Algebra 2 teacher recently taught the class how to find the roots of any given polynomial with real roots using the "Quadratic Formula", but he has no idea how all of that voodoo-magic works.
+After finishing that program for Dr. J. Dan, you walk with a grin from cheek to cheek, proud of your successful work for him. On your way back home, you see a high school kid throwing a tantrum at a park. You go up to him, ask him for his name, and why he's so mad. He reveals himself as Charley, a student attending Gintel High School. His Algebra 2 teacher recently taught the class how to find the roots of any given polynomial containing real roots using the "Quadratic Formula", but he has no idea how all of that voodoo-magic works.
 
 He wants you to help him by writing a program that will print out the roots of any given a, b, and c. He will put in a, b, and c, and the program will spit out two roots for any polynomial with real roots. If the equation comes out with imaginary roots, the program will print an error. Leave the error. He's a high school kid. He can deal with errors.
 
 ### 3. Tell me the TRUTH
 After getting a good night's rest from a long day of programming, you wake up to the sound of a police car in front of your yard. You go down to see Officer Hanro, a warrior of justice for the city of Cintely. He comes to you out of breath, asking you for help to decipher the schedule left at the scene of a crime. He cannot figure out what is what, but after hearing about how you created the Guest Greeter for Dr. J. Dan's ice cream party, he came to you first to help him solve it:
 
-(TRUE or FALSE): Here's a hint to help you catch me, if you can. But is it really a hint? We'll have some fun with this!
+(TRUE or FALSE): Here's a hint to help you catch me... if you can. But is it really a hint? We'll have some fun with this!
 
-Seeing this boolean logic before, you figure that evaluating the Boolean to a single value will help figure out which statement is true, or false! You run to your laptop to calculate it with Python, but you find your laptop battery dead, and you realize that you forgot the charger at Dr. J. Dan. Officer Hanro stresses that he needs this problem solved ASAP, so you decide to figure this out with paper and pencil:
+Seeing this boolean logic before, you figure that evaluating the Boolean to a single value will help figure out which statement is true, or false! You run to your laptop to calculate it with Python, but you find your laptop battery dead, and you realize that you forgot the charger at Dr. J. Dan's. Officer Hanro stresses that he needs this problem solved ASAP, so you decide to figure this out with paper and pencil:
 
 (TRUE and TRUE): At 5:00PM, I woke up from my cot at the corner of 28th and Freeo.
 
@@ -55,4 +55,4 @@ Seeing this boolean logic before, you figure that evaluating the Boolean to a si
 
 ((FALSE or TRUE) or (FALSE or TRUE) or (TRUE or FALSE) or (TRUE or FALSE) or (TRUE or FALSE) or (TRUE or FALSE)): At 5:00AM, I'm gonna go have breakfast at a dog friendly place. Probably like P. Husky's.
 
-For the purpose of this problem, write out what you think the result of the Boolean logic is, and then use Python to see the actual result. 
+[For the purpose of this problem, write out what you think the result of the Boolean logic is, and then use Python to see the actual result.]
