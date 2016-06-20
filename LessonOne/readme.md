@@ -30,17 +30,29 @@ After getting a good night's rest from a long day of programming, you wake up to
 Seeing this boolean logic before, you figure that evaluating the Boolean to a single value will help figure out which statement is true, or false! You run to your laptop to calculate it with Python, but you find your laptop battery dead, and you realize that you forgot the charger at Dr. J. Dan. Officer Hanro stresses that he needs this problem solved ASAP, so you decide to figure this out with paper and pencil:
 
 (TRUE and TRUE): At 5:00PM, I woke up from my cot at the corner of 28th and Freeo.
+
 (FALSE and TRUE): At 6:00PM, I zipped down to the docks and slipped on a banana.
+
 (TRUE or FALSE): At 7:00PM, I walked past the Spintel Hospital and saw a cute dog.
+
 ((TRUE or FALSE) and FALSE): At 8:00PM, I followed the dog back to its owner, but oh man it has an owner.
+
 ((TRUE and TRUE) and TRUE): At 9:00PM, I found the dog's dog house in the backyard, but it's not there yet.
+
 ((TRUE or FALSE) or (FALSE and FALSE)): At 10:00PM, I see the dog coming out for a potty break. Is it time to make the snatch?
+
 ((TRUE and TRUE) and (FALSE or FALSE or TRUE)): At 11:00PM, I have the dog. I'm making a break for it!
+
 ((FALSE and TRUE) or (TRUE and FALSE) and (TRUE and TRUE)): At 12:00AM, I forgot my keys at the house. I gotta go back.
+
 ((TRUE or FALSE and TRUE) and (TRUE or FALSE and TRUE)): At 1:00AM, I took the dog out for a walk at Intelee Park. HE'S SO CUTE!
+
 (TRUE and TRUE and FALSE or TRUE and FALSE or TRUE): At 2:00AM, I decided to name the dog Genie. He's definitely a husky. Freakin' cute I swear.
+
 (((TRUE and FALSE or TRUE) and (FALSE or TRUE) or (FALSE and FALSE)) and TRUE): At 3:00AM, I forgot to leave a cool riddle at the scene of the crime. I'm going back.
+
 ((TRUE and TRUE) or (TRUE and FALSE) or (TRUE and FALSE) and (TRUE and TRUE)): At 4:00AM, I remembered that I had already left the riddle. I'm the best.
+
 ((FALSE or TRUE) or (FALSE or TRUE) or (TRUE or FALSE) or (TRUE or FALSE) or (TRUE or FALSE) or (TRUE or FALSE)): At 5:00AM, I'm gonna go have breakfast at a dog friendly place. Probably like P. Husky's.
 
 For the purpose of this problem, write out what you think the result of the Boolean logic is, and then use Python to see the actual result. 
