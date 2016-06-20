@@ -13,5 +13,3 @@ The lessons in Python will use the latest iteration of Python (at the time of wr
   * PyCharm Community Version: <https://www.jetbrains.com/pycharm/download/#section=windows>
   * Git Bash: <https://git-scm.com/downloads>
   * SourceTree: <https://www.sourcetreeapp.com/>
-
-Please come to class with all of this installed correctly on your computers! If you have any questions, please ask!
