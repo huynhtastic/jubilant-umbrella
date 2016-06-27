@@ -1,0 +1,1 @@
+print((False or True)or(False or True)or(True or False)or(True or False)or(True or False)or(True or False))
