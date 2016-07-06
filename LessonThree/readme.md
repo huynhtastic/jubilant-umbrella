@@ -20,6 +20,6 @@ Below that says:
 **"Heed my power or my knowledge. The key lies within the 'inscriptions in hollow on side of inlet puzzled professor'."**
 
 At first glance, it looks like gibberish to the untrained eye, but not to yours. You have seen this before. Your vast knowledge has trained you to see that this is a _Simple Substitution Cipher_, a basic ciphering method that uses a key to encipher some text (and if you haven't before, take a look at 
-http://practicalcryptography.com/ciphers/simple-substitution-cipher/). But 'inscriptions in hollow on side of inlet puzzled professor'? The key must relate to that somehow, and a simple Google search should clear that up.
+http://practicalcryptography.com/ciphers/simple-substitution-cipher/). But 'inscriptions in hollow on side of inlet puzzled professor'? The key must relate to that somehow.
 
 After figuring all of this out, Deputy Jon Terzei has asked you to create two methods, "encipher" and "decipher", that take in some text, encipher or deciphers it, then **returns** the result. The deputy will then use these methods to be able to look through the rest of the encrypted text that Lurk has left behind.
