@@ -2,12 +2,18 @@ By the time you see this, I'm probably a few dollars richer. Let's face it: it'l
 
 Let's play a game.
 
-You're trying to find me, and I'm trying to find another genius to join me in my escapades. You figure this out, you can have your money back, and I can have another partner to have fun with. A win-win? We'll see.
+You're trying to find me, and I'm trying to find another genius to join me in my escapades.
+You figure this out, you can have your money back, and I can have another partner to have fun with. 
 
-You guys call me Lurk, The Lurker, whatever. Call me whatever you want. I'm a face with many names. But the word on the street is someone's already cracked my first cipher. If you're reading this, I know that person is you. If you aren't, then good luck.
+A win-win? We'll see.
+
+You guys call me Lurk, The Lurker, whatever. Call me whatever you want. I'm a face with many names. 
+But the word on the street is someone's already cracked my first cipher. 
+If you're reading this, I know that person is you. If you aren't, then good luck.
 
 Riddle 1:
-You can see that your logs might look a little... vague. That might be an understatement. The point is, you cracked my first cipher, but that was easy. Now, prepare for trouble. And make it **DOUBLE**.
+You can see that your logs might look a little... vague. That might be an understatement.
+The point is, you cracked my first cipher, but that was easy. Now, prepare for trouble. And make it **DOUBLE**.
 
 **HINT** **HINT**
 
