@@ -27,4 +27,3 @@ while x >= 1:
             answer += '1'
     print(answer.center(yourCone, " "))
     x -=2
-

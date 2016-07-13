@@ -1,4 +1,4 @@
-print(list(range (0, 10, 1)))
+print(list(range(0, 10, 1)))
 
 aList = [1, 2, 3]
 print(aList)
