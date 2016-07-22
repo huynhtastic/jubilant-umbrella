@@ -1,12 +1,12 @@
 def decipher(key, mencoded):
-    #fixed = message
+    # fixed = message
     fixed = ""
     alphabet = "abcdefghijklmnopqrstuvwxyz"
     for letter in mencoded:
         if key.find(letter) != -1:
             fixed += alphabet[key.find(letter)]
-            #fixed.replace(letter, key[key.find(letter)])
-            #fixed.append(letter), alphabet[key.find(letter)])
+            # fixed.replace(letter, key[key.find(letter)])
+            # fixed.append(letter), alphabet[key.find(letter)])
         else:
             fixed += letter
     return fixed
