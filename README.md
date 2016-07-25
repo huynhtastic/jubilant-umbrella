@@ -5,3 +5,5 @@ Branch has:
 - Lesson 3  
 - Lesson 4  
   - contains codes that didn't work, but only pay attention to encrypt.py, decrypt.py, and log.txt
+- Lesson 5
+  - curretnly only Blackjack game
