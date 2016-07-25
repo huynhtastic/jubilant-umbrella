@@ -6,4 +6,4 @@ Branch has:
 - Lesson 4  
   - contains codes that didn't work, but only pay attention to encrypt.py, decrypt.py, and log.txt
 - Lesson 5
-  - curretnly only Blackjack game
+  - currently only Blackjack game. Will work on using more starter code later
