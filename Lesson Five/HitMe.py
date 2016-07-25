@@ -25,19 +25,11 @@ class Deck(object):
     def __init__(self):
         self.suits = None
         self.values = None
-<<<<<<< Updated upstream
-        self.deck = None
-=======
         self.deck = []
->>>>>>> Stashed changes
 
     def create_deck(self):
         self.suits = ["S", "H", "C", "D"]
         self.values = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"]
-<<<<<<< Updated upstream
-        self.deck = []
-=======
->>>>>>> Stashed changes
         for value in self.values:
             for suit in self.suits:
                 self.deck.append(value + suit)
@@ -91,11 +83,8 @@ def main():
     # players hit or stay
     for player in players:
         print()
-<<<<<<< Updated upstream
-        print("Player " + str(players.index(player) + 1) + " hand", player.hand, "=", check_total(player.hand))
-=======
+
         print("Player " + str(players.index(player) + 1) + " hand:", player.hand, "=", check_total(player.hand))
->>>>>>> Stashed changes
         choice = "y"
         while choice == "y":
             choice = input("Player " + str(players.index(player)+1) + ", do you want to take a hit? [y/n]   ")
@@ -113,11 +102,7 @@ def main():
 
     # dealer's hand
     print("Dealer's turn")
-<<<<<<< Updated upstream
-    print("Dealer's hand:", dealer.hand, dealer.hand, "=", check_total(dealer.hand))
-=======
     print("Dealer's hand:", dealer.hand, "=", check_total(dealer.hand))
->>>>>>> Stashed changes
     while check_total(dealer.hand) < 17:
         dealer.hand.append(deck1.pop())
         print("Dealer's hand: ", dealer.hand, "=", check_total(dealer.hand))
@@ -154,15 +139,6 @@ def check_total(hand):
 def check_winners(dhand, phands):
     winners = []
     if dhand >= 22:
-<<<<<<< Updated upstream
-        for hand in phands:
-            if hand <= 21:
-                winners.append("Player" + str(phands.index(hand) + 1))
-    else:
-        for hand in phands:
-            if hand > dhand and hand <= 21:
-                winners.append("Player" + str(phands.index(hand) + 1))
-=======
         for x in range(0, len(phands)):
             if phands[x] <= 21:
                 winners.append("Player " + (str(x + 1)))
@@ -170,16 +146,12 @@ def check_winners(dhand, phands):
         for x in range(0, len(phands)):
             if phands[x] > dhand and phands[x] <= 21:
                 winners.append("Player " + (str(x + 1)))
->>>>>>> Stashed changes
     if len(winners) == 0:
         print("Dealer wins")
     else:
         print("Winners:", winners)
-<<<<<<< Updated upstream
-    return winners
-=======
+
     # return winners
->>>>>>> Stashed changes
 
 
 main()
