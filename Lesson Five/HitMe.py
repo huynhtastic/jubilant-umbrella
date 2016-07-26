@@ -129,6 +129,7 @@ def check_total(hand):
             total += 10
         if str(card).find("K") != -1:
             total += 10
+    for card in hand:
         if str(card).find("A") != -1:
             if total < 11:
                 total += 11
