@@ -1,3 +1,8 @@
+# HAVE A GREAT TIME IN COLLEGE LITTLE BABIES! 
+## Enjoy your last day tomorrow! (For those of you that are leaving!)
+##### i miss you all ;_;
+
+
 # jubilant-umbrella
 This is the repository used for the lessons taught for learning programming in Python and PERL! 
 
